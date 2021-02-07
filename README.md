@@ -1,1 +1,3 @@
-# UNIX
+# POSIX
+---
+Unix, Bash Shell script 
